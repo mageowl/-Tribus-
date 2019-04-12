@@ -2,8 +2,14 @@ html {
     font-family: "PT mono", monospace
 }
 
+#log {
+    font-size: 0.8em;
+    border: 1px gray solid;
+}
+
 button {
     -webkit-appearance: none;
     outline: none;
     border: none;
+    font-family: "PT mono", monospace
 }
