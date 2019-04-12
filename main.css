@@ -1,0 +1,9 @@
+html {
+    font-family: "PT mono", monospace
+}
+
+button {
+    -webkit-appearance: none;
+    outline: none;
+    border: none;
+}
